@@ -1,0 +1,6 @@
+{
+        "enable_mathjax": true,
+        "enable_highlight": true,
+        "strip_yaml_front_matter": true,
+        "path_tempfile": "/Users/lzc/Documents/LiveReload"
+}

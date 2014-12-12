@@ -1,0 +1,89 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "Monaco",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"tab_size": 8,
+	"theme": "Sodarized Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

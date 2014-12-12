@@ -1,0 +1,4 @@
+{
+        "python_interpreter": "/opt/local/bin/python3.4",
+        "pep8_error_levels": {"E":"E"}
+}
