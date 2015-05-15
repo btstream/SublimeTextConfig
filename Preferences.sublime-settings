@@ -8,80 +8,16 @@
 		{
 			"characters": "\\",
 			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		},
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
 		}
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"default_line_ending": "unix",
 	"font_face": "Monaco",
-	"font_size": 14,
+	"font_size": 16,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"tab_size": 8,
 	"theme": "Sodarized Dark 3.sublime-theme",

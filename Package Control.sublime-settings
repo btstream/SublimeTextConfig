@@ -1,16 +1,13 @@
 {
+	"ignore_vcs_packages": true,
 	"in_process_packages":
 	[
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
 	],
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"Anaconda",
+		"Clang-Complete",
 		"Jekyll",
 		"LaTeX-cwl",
 		"Markdown Preview",
@@ -18,7 +15,7 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"Terminal",
-		"Theme - Sodarized"
-	],
-	"ignore_vcs_packages": true
+		"Theme - Sodarized",
+		"TodoReview"
+	]
 }

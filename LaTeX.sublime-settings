@@ -2,8 +2,11 @@
         "draw_centered": true,
         "word_wrap": true,
         "wrap_width": 62,
+        // "wrap_width": 45,
         "font_face": "Monaco",
+        // "font_face": "华文宋体",
         "font_size": 16,
+        // "font_size": 18,
         "line_padding_top": 5,
         "line_padding_bottom": 5
 }
