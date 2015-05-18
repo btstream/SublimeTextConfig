@@ -1,7 +1,6 @@
 {
-        "posts_path": "/Volumes/MacExtension/Development_Repos/btstream.net/_posts",
-        "drafts_path": "/Volumes/MacExtension/Development_Repos/btstream.net/_drafts",
-        "default_post_layout": "post",
+	"noteStoreUrl": "https://www.evernote.com/shard/s66/notestore",
+	"token": "S=s66:U=706f56:E=154beed19e1:C=14d673bec90:P=1cd:A=en-devtoken:V=2:H=33875ebd71c0cd7c40c2fde7ab1485ff",
 
         "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
         // "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
